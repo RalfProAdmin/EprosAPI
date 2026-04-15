@@ -1,0 +1,6 @@
+@Epros_CareerHubAPI_HostAddress = http://localhost:5029
+
+GET {{Epros_CareerHubAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
